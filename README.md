@@ -12,4 +12,4 @@ O Koyeb é uma plataforma voltada para desenvolvedores lançarem suas aplicaçõ
 
 Botão configurado para realizar o deploy de uma imagem diretamente do Docker Hub para o Koyeb.
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=docker&image=docker.io/thenumberone/node-express&name=docker-node-express&ports=3000;http;/)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=docker&image=docker.io/junitadore56/cad&name=cad&ports=3000;http;/)
