@@ -1,5 +1,5 @@
 {
-  "name": "docker-node-express",
+  "name": "cad",
   "version": "1.0.0",
   "description": "Docker image com backend em Node.JS/Express.JS",
   "main": "app.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marckesin/Docker-Node-Express.git"
+    "url": "git+https://github.com/junitadore56/cad.git"
   },
   "author": "Ronaldo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/marckesin/Docker-Node-Express/issues"
+    "url": "https://github.com/junitadore56/cad/issues"
   },
-  "homepage": "https://github.com/marckesin/Docker-Node-Express#readme",
+  "homepage": "https://github.com/junitadore56/cad#readme",
   "dependencies": {
     "express": "^4.17.2",
     "helmet": "^5.0.2"
