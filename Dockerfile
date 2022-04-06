@@ -7,4 +7,4 @@ COPY . .
 RUN npm ci --only=production
 EXPOSE 3000
 CMD ["node", "app.js"]
-LABEL org.opencontainers.image.source https://github.com/marckesin/docker-node-express
+LABEL org.opencontainers.image.source https://github.com/junitadore56/cad
